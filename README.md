@@ -13,4 +13,4 @@
 
 * Windows10
 
-forked from [kazukazuinaina/win-ime-ahk](https://github.com/karakaram/alt-ime-ahk)
+forked from [karakaram/alt-ime-ahk](https://github.com/karakaram/alt-ime-ahk)
